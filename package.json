@@ -1,0 +1,26 @@
+{
+  "name": "hd_wallet_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pratap",
+  "license": "MIT",
+  "description": "Demo for hdwallet",
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "hdkey": "^2.0.1",
+    "web3": "^1.7.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratap2018/HD-Wallet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pratap2018/HD-Wallet/issues"
+  },
+  "homepage": "https://github.com/Pratap2018/HD-Wallet#readme"
+}
